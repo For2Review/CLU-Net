@@ -1,5 +1,5 @@
 # CLU-Net
-A 3D Medical Image Disease Prediction Model Based on Deep Clustering (Review for MICCAI) </br>
+CLU-Net: A Deep Clustering-Based Efficient 3D Medical Image Disease Prediction Model (Review for MICCAI) </br>
 
 
 # Model
